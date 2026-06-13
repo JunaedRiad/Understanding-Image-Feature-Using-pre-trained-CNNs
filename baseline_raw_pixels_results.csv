@@ -1,0 +1,2 @@
+model,purity_at_k,retrieval_k,silhouette_score,best_knn_k,dev_accuracy,test_accuracy,macro_precision,macro_recall,macro_f1
+baseline_raw_pixels_knn,0.3989333333333334,5,0.10727104,3,0.4506590666191664,0.445,0.4908208662033122,0.4365168356781157,0.4331564727696267

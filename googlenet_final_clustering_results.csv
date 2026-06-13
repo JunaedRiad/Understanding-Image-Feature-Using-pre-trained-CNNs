@@ -1,0 +1,2 @@
+model,best_pca_dim,best_n_clusters,final_test_silhouette_score
+googlenet,20,5,0.2055695

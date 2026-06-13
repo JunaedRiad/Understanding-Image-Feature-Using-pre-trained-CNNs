@@ -1,0 +1,2 @@
+model,best_k,dev_accuracy,test_accuracy,macro_precision,macro_recall,macro_f1
+googlenet,9,0.8902743142144638,0.8946666666666667,0.8984872793439279,0.8952581587386762,0.895787771263682

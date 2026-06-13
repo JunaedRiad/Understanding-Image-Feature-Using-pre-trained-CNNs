@@ -1,0 +1,2 @@
+model,best_pca_dim,best_metric,best_k,dev_purity,test_purity
+googlenet,200,cosine,5,0.8483790523690772,0.8448
